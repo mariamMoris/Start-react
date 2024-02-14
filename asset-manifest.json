@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Start-react/static/css/main.332e1bd1.css",
+    "main.js": "/Start-react/static/js/main.f1dd380d.js",
+    "static/media/fa-solid-900.ttf": "/Start-react/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/Start-react/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/Start-react/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/Start-react/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/Start-react/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/img1.png": "/Start-react/static/media/img1.4417330275f78faa31c3.png",
+    "static/media/img3.png": "/Start-react/static/media/img3.494a4a914b5471b41f3e.png",
+    "static/media/img4.png": "/Start-react/static/media/img4.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/Start-react/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/img6.png": "/Start-react/static/media/img6.48c9704ca7f8ce901038.png",
+    "static/media/error.avif": "/Start-react/static/media/error.d782d522f51f64d0d6d3.avif",
+    "static/media/img5.png": "/Start-react/static/media/img5.01792c0bdc342bf4bf9c.png",
+    "static/media/img2.png": "/Start-react/static/media/img2.6554473016d32b343f02.png",
+    "static/media/home.png": "/Start-react/static/media/home.897c5561e351949dee71.png",
+    "static/media/fa-v4compatibility.ttf": "/Start-react/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Start-react/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/Start-react/index.html",
+    "main.332e1bd1.css.map": "/Start-react/static/css/main.332e1bd1.css.map",
+    "main.f1dd380d.js.map": "/Start-react/static/js/main.f1dd380d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.332e1bd1.css",
+    "static/js/main.f1dd380d.js"
+  ]
+}
