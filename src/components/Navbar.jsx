@@ -34,7 +34,7 @@ function Navbar() {
                   className={
                     pathName == "/home"
                       ? "active nav-link rounded-3 me-3 fs-3"
-                      : "hover nav-link me-3 fs-3 text-white"
+                      : "  hover nav-link me-3 fs-3 text-white"
                   }
                   aria-current="page"
                   to="/home"
